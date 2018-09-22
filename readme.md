@@ -1,5 +1,5 @@
 
-# Warehouse Manager Test
+# Warehouse Manager
 
 ## Non-Docker
 
