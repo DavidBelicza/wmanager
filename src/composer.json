@@ -1,0 +1,21 @@
+{
+  "name": "david/wd_backend",
+  "authors": [
+    {
+      "name": "DavidBelicza",
+      "email": "87.bdavid@gmail.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "7.3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "DavidBelicza\\WebDream\\": [
+        "app/",
+        "tests/functional/",
+        "tests/unit/"
+      ]
+    }
+  }
+}
